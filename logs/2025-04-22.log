@@ -1,0 +1,2 @@
+[22-Apr-2025 23:11:01 Europe/Berlin] Erro no processamento: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+[22-Apr-2025 23:33:16 Europe/Berlin] Erro no processamento: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens

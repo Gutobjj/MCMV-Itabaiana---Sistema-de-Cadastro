@@ -1,0 +1,10 @@
+# **Protege o .env**
+<Files .env>
+  Order allow,deny
+  Deny from all
+</Files>
+
+# bloqueia acesso público ao .env
+<Files ".env">
+    Require all denied
+</Files>

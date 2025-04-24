@@ -1,0 +1,1 @@
+[24-Apr-2025 15:17:08 Europe/Berlin] Erro PDO no processamento: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23456786543' for key 'idx_cpf'
